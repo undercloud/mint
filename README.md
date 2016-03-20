@@ -7,4 +7,4 @@ sudo apt-get install numix-gtk-theme
 sudo apt-get install numix-icon-theme
 ```
 
-![Alt text](article/login.jpg?raw=true)
+![Alt text](/undercloud/mint/blob/master/article/select-theme.png?raw=true)
